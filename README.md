@@ -1,1 +1,1 @@
-Demo of vigenere encryption and decryption algorithms with java.
+Demo of transposition encryption and decryption algorithms with java.
